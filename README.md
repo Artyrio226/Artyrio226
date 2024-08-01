@@ -7,7 +7,7 @@
 
 :man_technologist: About me :
 * I am from Moscow :city_sunrise:
-* I am Java programmer ☕
+* I am a Java programmer ☕
 
 -----
 ### :hammer_and_wrench: Languages and Tools :
