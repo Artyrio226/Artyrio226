@@ -6,8 +6,7 @@
   ![](https://komarev.com/ghpvc/?username=Artyrio226)
 
 :man_technologist: About me :
-* I am from Moscow :city_sunrise:
-* I am a Java programmer ☕
+* I am a Java programmer from Moscow :city_sunrise:
 
 -----
 ### :hammer_and_wrench: Languages and Tools :
