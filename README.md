@@ -1,4 +1,4 @@
-## Всем привет! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Меня зовут Артур.
+##  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Меня зовут Артур. Всем привет!
 
 ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3BlZnk1MzJ4M3F0NjRwY2Y2b21ueWJxZmRreHV3ajFtZnNrM3U5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3pzLJifxEvLpe/200.webp)
 
