@@ -27,6 +27,7 @@
 <a><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" /></a>
 <a><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap" /></a>
 <a><img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="50" height="50" alt="Postman" /></a>
+<a><img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" width="50" height="50" alt="Swagger" /></a>
 
 
 
