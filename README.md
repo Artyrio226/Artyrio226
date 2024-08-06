@@ -32,9 +32,10 @@
 
 -----
 My projects :heavy_check_mark::
-* "job4j_cinema" - [Cinema using Spring Boot and sql2o](https://github.com/Artyrio226/job4j_cinema)
-* "job4j_accidents" - [Accidents using Spring Boot, Spring Security and Spring Data](https://github.com/Artyrio226/job4j_accidents)
-* "job4j_todo" - [ToDo list using Spring Boot and Hibernate](https://github.com/Artyrio226/job4j_todo)
+* [**Cinema**](https://github.com/Artyrio226/job4j_cinema) - Java, Maven, Spring boot, PostgreSQL, Liquibase, Log4j, AssertJ,
+JUnit 5, Mockito, H2
+* [**Car Accident**](https://github.com/Artyrio226/job4j_accidents) - Spring (MVC, ORM, Data, Security), JSP, JSTL, JDBC, Hibernate, Maven, Tomcat
+* [**Todo List**](https://github.com/Artyrio226/job4j_todo) - Java, Servlets, PostgreSQL, Hibernate, Liquibase, JUnit, Mockito, Maven, Tomcat
 
 -----
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Artyrio226&hide=stars,prs,issues,contribs&layout=compact&theme=vision-friendly-dark)&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artyrio226&layout=compact&theme=vision-friendly-dark)  
