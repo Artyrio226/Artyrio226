@@ -1,9 +1,11 @@
-##  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  Всем привет!  Меня зовут Артур.
+##  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  Всем привет!  Меня зовут Артур.&nbsp;&nbsp;  ![](https://komarev.com/ghpvc/?username=Artyrio226)
+
+-----
 
 ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3BlZnk1MzJ4M3F0NjRwY2Y2b21ueWJxZmRreHV3ajFtZnNrM3U5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3pzLJifxEvLpe/200.webp)
 
 
-  ![](https://komarev.com/ghpvc/?username=Artyrio226)
+-----
 
 :man_technologist: About me :
 * I am a Java programmer from Moscow :city_sunrise:
@@ -36,4 +38,9 @@ My projects :heavy_check_mark::
 * "job4j_todo" - [ToDo list using Spring Boot and Hibernate](https://github.com/Artyrio226/job4j_todo)
 
 -----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artyrio226&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Artyrio226&hide=stars,prs,issues,contribs&layout=compact&theme=vision-friendly-dark)&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artyrio226&layout=compact&theme=vision-friendly-dark)  
+
+-----
+[![alt-text](https://img.shields.io/badge/-telegram-grey?style=flat&logo=telegram&logoColor=white)](https://t.me/Artyrio226)&nbsp;&nbsp;
+[![alt-text](https://img.shields.io/badge/@%20email-005FED?style=flat&logo=mail&logoColor=white)](mailto:artur_sar_80@mail.ru)&nbsp;&nbsp;
+
