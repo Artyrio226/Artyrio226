@@ -37,6 +37,7 @@ My projects :heavy_check_mark::
 JUnit 5, Mockito, H2
 * [**Car Accident**](https://github.com/Artyrio226/job4j_accidents) - Spring (MVC, ORM, Data, Security), JSP, JSTL, JDBC, Hibernate, Maven, Tomcat
 * [**Todo List**](https://github.com/Artyrio226/job4j_todo) - Java, Servlets, PostgreSQL, Hibernate, Liquibase, JUnit, Mockito, Maven, Tomcat
+* [**Pooh**](https://github.com/Artyrio226/job4j_pooh) - Java Concurrency, Sockets, Maven, JUnit, Maven
 
 -----
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Artyrio226&hide=stars,prs,issues,contribs&layout=compact&theme=vision-friendly-dark)&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artyrio226&layout=compact&theme=vision-friendly-dark)  
